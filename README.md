@@ -54,7 +54,8 @@ plot(Pm_vals, Rmax_Pm, 'b', 'LineWidth', 2);
 
 ## Tabular Column :
 
-![RADAR RANGE](https://github.com/user-attachments/assets/3218ebe0-c7ea-4474-aaf9-e14c68c4f627)
+<img width="1280" height="742" alt="LS20251128163419" src="https://github.com/user-attachments/assets/28ac3cce-6400-44ce-a119-7ed77d4f38fb" />
+
 
 
 ## Output Graph :
